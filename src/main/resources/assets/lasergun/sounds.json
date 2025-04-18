@@ -1,0 +1,8 @@
+{
+  "disparo": {
+    "subtitle": "sounds.lasergun.disparo",
+    "sounds": [
+      "lasergun:disparo"
+    ]
+  }
+}
